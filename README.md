@@ -1,3 +1,3 @@
 # shuffle
-Simple shuffle app. React/Cordova
+Simple shuffle app. React
 Outdated. Need to update to modern deps
