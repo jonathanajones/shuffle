@@ -60,4 +60,7 @@ typings/
 # next.js build output
 .next
 
+# webpack distribution
+dist/
+
 .DS_Store
